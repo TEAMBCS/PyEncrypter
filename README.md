@@ -1,6 +1,8 @@
 ** this is a Simple Python Code Obfuscator**
-Team: Bangladesh cyber squad 
-dev: Parvez hasan
+
+***Team: Bangladesh cyber squad***
+
+**dev: Parvez hasan**
 
 # 🔐 Python Code Encryptor Tool
 
