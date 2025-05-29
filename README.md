@@ -1,4 +1,6 @@
 ** this is a Simple Python Code Obfuscator**
+Team: Bangladesh cyber squad 
+dev: Parvez hasan
 
 # 🔐 Python Code Encryptor Tool
 
@@ -6,7 +8,7 @@ A powerful and simple tool to encrypt Python (`.py`) files and protect your sour
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔒 Encrypts `.py` files securely
 - 🧠 Easy to use interface (CLI-based)
@@ -21,3 +23,4 @@ A powerful and simple tool to encrypt Python (`.py`) files and protect your sour
 git clone https://github.com/TEAMBCS/PyEncrypter.git
 cd PyEncrypter
 python encoder.py
+
